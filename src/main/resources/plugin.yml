@@ -1,0 +1,9 @@
+name: midimc
+version: '1.0-SNAPSHOT'
+main: monster.riya.midimc.Midimc
+api-version: '1.21'
+commands:
+  mstart:
+    description: start
+  mstop:
+    description: stop
